@@ -17,7 +17,7 @@ $ app.py
 <img src = "https://i.imgur.com/ZrfScFF.png?1">
 
 # Demonstration
-<img src = "https://i.imgur.com/cuaEmLU.gif">
+<img src = "https://i.imgur.com/gTf7Ic7.gif">
 
 # Dependencies
 
